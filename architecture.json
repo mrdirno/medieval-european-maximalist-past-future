@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-european-maximalist-past-future",
+  "title": "The Estuary's Final Shrug",
+  "tagline": "A boy sacrificed to a river god must navigate a maximalist wilderness, where the brutal weight of the past contends with the fragile possibility of a future.",
+  "target_words": 72445,
+  "actual_words": 72445,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Man vs. Nature",
+    "Sacrifice and Survival",
+    "The Weight of History",
+    "The Birth of a New Self"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Taste of Brown, Ancient Water",
+      "words": 6585
+    },
+    {
+      "ch": 2,
+      "title": "The Green Seepage of Dawn",
+      "words": 6585
+    },
+    {
+      "ch": 3,
+      "title": "A Knife Hilt Against the Palm",
+      "words": 6585
+    },
+    {
+      "ch": 4,
+      "title": "The Patient Weight of Stone",
+      "words": 6585
+    },
+    {
+      "ch": 5,
+      "title": "A Horn’s Concluding Note",
+      "words": 6585
+    },
+    {
+      "ch": 6,
+      "title": "The Liquid Void",
+      "words": 6585
+    },
+    {
+      "ch": 7,
+      "title": "A Ledger’s Dry Verdict",
+      "words": 6585
+    },
+    {
+      "ch": 8,
+      "title": "Silence of Wounded Stone",
+      "words": 6585
+    },
+    {
+      "ch": 9,
+      "title": "The Estuary’s Final Shrug",
+      "words": 6585
+    },
+    {
+      "ch": 10,
+      "title": "A Cracked Walnut Shell",
+      "words": 6585
+    },
+    {
+      "ch": 11,
+      "title": "The Chisel’s Constant Reminder",
+      "words": 6585
+    }
+  ]
+}
